@@ -56,6 +56,11 @@ Our vision is to become the **default AI assistant for India**, enabling:
 
 ## 🚀 Future Vision
 
+## Vision
+
+To build the foundational AI layer powering inclusive digital growth across Bharat.
+
+
 AI that speaks every Indian language.  
 AI that reaches every village.  
 AI for 1.4 billion people.
